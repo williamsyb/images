@@ -1,1 +1,1 @@
-FROM rabbitmq
+FROM python:3.10.2-slim-buster
