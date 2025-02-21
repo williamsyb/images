@@ -1,1 +1,1 @@
-FROM python:3.10.2-slim-buster
+FROM registry.k8s.io/pause:3.9
