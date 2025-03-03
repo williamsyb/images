@@ -1,1 +1,1 @@
-FROM registry.k8s.io/pause:3.9
+FROM registry.k8s.io/kube-scheduler:v1.30.8
